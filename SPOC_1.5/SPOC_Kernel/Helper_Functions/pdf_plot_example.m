@@ -1,6 +1,7 @@
 % pdf plot example
 % For a 2d problem...
 
+
 Discretization = [50, 200,200];
 Methods = [1,0,0];
 [time_nodes, parameter_values, pdf_values] = ... 
